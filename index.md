@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Witaj na mojej stronie
 
-You can use the [editor on GitHub](https://github.com/awitkowski-ug/awitkowski-ug.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Nazywam się Artur Witkowski, student Informatyki na Uniwersytecie Gdańskim.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Co dalej?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
